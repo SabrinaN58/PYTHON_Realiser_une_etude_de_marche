@@ -4,7 +4,7 @@
 La poule qui chante est une entreprise française d'agroalimentaire spécialisée dans l'élevége et la vente de poulets sous le label "Poulet Agriculture Biologique". Son activité est basée en France, mais le PDG de l'entreprise souhaite à présent évaluer la possibilité de se développer à l'international. Pour l'instant, aucun pays ou continent particulier n'est pour le moment choisi. Tous les pays sont envisageables.
 
 ## **Objectifs** : \
--Utiliser une analyse PESTEL pour trouver les variables pertinentes afin d'analyser les facteurs environnementaux des pays
+-Utiliser une analyse PESTEL pour trouver les variables pertinentes afin d'analyser les facteurs environnementaux des pays\
 -Proposer une analyse des groupements de pays cibles pour exporter les poulets
 
   ## **Actions** :
