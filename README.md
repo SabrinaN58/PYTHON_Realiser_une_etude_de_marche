@@ -8,8 +8,8 @@ La poule qui chante est une entreprise française d'agroalimentaire spécialisé
 -Proposer une analyse des groupements de pays cibles pour exporter les poulets
 
   ## **Actions** :
--Préparation des données, nettoyage et jointure des différents fichiers sélectionner comportant les variables sélectionnées\
--Analyse exploratoire, distribution des variables, détection des outliers et analyse des corrélations\
+- Préparation des données, nettoyage et jointure des différents fichiers sélectionner comportant les variables sélectionnées\
+- Analyse exploratoire, distribution des variables, détection des outliers et analyse des corrélations\
 - Application d'une analyse en composantes principales afin de réduire la dimensionnalité des données\
 - Application des algorithmes non supervisé kmeans et Classification Hiérarchique Ascendante pour regrouper les pays\
 - Recommandation du groupe de pays ainsi que les avantages associées.
