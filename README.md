@@ -7,7 +7,7 @@ La poule qui chante est une entreprise française d'agroalimentaire spécialisé
 -Utiliser une analyse PESTEL pour trouver les variables pertinentes afin d'analyser les facteurs environnementaux des pays
 -Proposer une analyse des groupements de pays cibles pour exporter les poulets
 
-  ## ** Actions** :
+  ## **Actions** :
 -Préparation des données, nettoyage et jointure des différents fichiers sélectionner comportant les variables sélectionnées
 -Analyse exploratoire, distribution des variables, détection des outliers et analyse des corrélations.
 - Application d'une analyse en composantes principales afin de réduire la dimensionnalité des données
