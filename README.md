@@ -1,5 +1,6 @@
 # **Réaliser une etude de marché**
-![Uploading carte du monde.jpg…]()
+![carte du monde](https://github.com/user-attachments/assets/e6d33265-576c-426a-a20a-4f0bf57e9a14)
+
 
 
 ## **Contexte** :
